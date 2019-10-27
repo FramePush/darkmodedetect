@@ -1,0 +1,13 @@
+{
+  "name": "com.framepush.darkmodedetect",
+  "displayName": "Dark Mode Detect",
+  "version": "0.1",
+  "unity": "2018.1",
+  "description": "Detects and notifies of changes to dark mode.",
+  "keywords": [
+    "dark",
+    "theme",
+    "ui"
+  ],
+  "category": "Unity"
+}
