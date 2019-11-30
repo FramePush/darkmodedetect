@@ -1,5 +1,5 @@
 @interface FPDarkModeDetector : NSObject
 
-+ (UIUserInterfaceStyle) getCurrentMode;
++ (UIUserInterfaceStyle) getCurrentMode API_AVAILABLE(ios(13));
 
 @end
